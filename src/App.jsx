@@ -9,7 +9,7 @@ function App() {
         <div className="animate__animated animate__fadeInUp animate__delay-2s">
           <div className="flex items-center gap-3 mb-6 bg-red-800 w-full sm:w-fit p-3 sm:p-4 rounded-2xl text-white">
             <img src={DataImage.HeroImage} alt="Hero Image" className="w-10 rounded-md" loading="lazy" />
-            <q>Kode yang indah lahir dari pikiran yang terbuka. 🤘</q>
+            <q>Prestasi tidak menentukan mu sukses, tetapi sukses ditentukan oleh caramu berproses. 🤘</q>
           </div>
 
           <h1 className="text-3xl sm:text-4xl md:text-5xl leading-tight font-bold mb-6">
