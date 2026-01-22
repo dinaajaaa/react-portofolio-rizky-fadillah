@@ -157,7 +157,7 @@ function App() {
       <div className="kontak mt-32 p-10" id="kontak" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="350">
         <h1 className="text-4xl mb-2 font-bold text-center" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="350">Kontak</h1>
         <p className="text-base/loose text-center mb-10 opacity-50" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="350">Silakan hubungi saya melalui email atau media sosial.</p>
-        <form action="https://formsubmit.co/j45t1n0505@gmail.com" method="POST" 
+        <form action="#" method="POST" 
         className="sm:w-full max-w-2xl mx-auto bg-red-900 p-10 w-fit mx-auto rounded-md"
         autoComplete="off"
         >
